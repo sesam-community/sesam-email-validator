@@ -1,4 +1,7 @@
 # sesam-email-validator
+
+[![Build Status](https://travis-ci.org/sesam-community/sesam-email-validator.svg?branch=master)](https://travis-ci.org/sesam-community/sesam-email-validator)
+
 Simple micro service to validate email addresses in Sesam.io powered applications (as http transformation)
 
 ## System setup
